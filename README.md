@@ -23,7 +23,7 @@ This is my solution to the Results Summary Component challenge from Frontend Men
 
 ## 🔗 Live Demo
 
-(Will be added after deploying with GitHub Pages)
+https://ali-tobar.github.io/Results-Summary-Component/
 
 ## 👨‍💻 Author
 
